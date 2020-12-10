@@ -1,1 +1,3 @@
-console.log('Hello World!')
+const aString: string = 'Hello World!'
+
+console.log(aString) 
