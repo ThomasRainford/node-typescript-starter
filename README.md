@@ -29,6 +29,8 @@ Step 4. Launch in dev mode.
 $ yarn dev
 ```
 
+The .ts files will be compiled to JavaScript and placed in the dist directory. Nodemon will then run the project using the index.js file.
+
 ## Next Steps
 
 -  After dev mode is launched you can start coding!
