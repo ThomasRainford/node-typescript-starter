@@ -43,9 +43,9 @@ The .ts files will be compiled to JavaScript and placed in the dist directory. N
 ## All Scripts
 
 -  `yarn watch` -- Watches the .ts files and compiles them into javascript.
--  `yarn dev` -- Runs the project in developer mode. This means any changes made will automatically re-run the typescript code.
+-  `yarn dev`   -- Runs the project in developer mode. This means any changes made will automatically re-run the typescript code.
 -  `yarn start` -- Runs the project using Node instead of nodemon.
--  `yarn lint` -- Runs ESLint
+-  `yarn lint`  -- Runs ESLint
 
 ## Features
 - Continously watches .ts files for changes and converts them to JavaScript in a seperate file.
