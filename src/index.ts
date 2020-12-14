@@ -1,3 +1,9 @@
-const aString: string = 'Hello World!'
+// TypeScript Example.
 
-console.log(aString) 
+type CustomString = {
+   value: string
+}
+
+const aString: CustomString = { value: 'Hello World! ' }
+
+console.log(aString.value)
