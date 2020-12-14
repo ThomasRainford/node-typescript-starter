@@ -35,7 +35,7 @@ The .ts files will be compiled to JavaScript and placed in the dist directory. N
 
 ## Next Steps
 
--  After dev mode is launched you can start coding!
+-  After dev mode is launched you're good to go!
 -  Checkout all scripts below.
 -  If you wish to add more linting rules, these can be added to the .eslintrc.js file.
 -  Feel free to open issues.
