@@ -36,7 +36,7 @@ The .ts files will be compiled to JavaScript and placed in the dist directory. N
 ## Next Steps
 
 -  After dev mode is launched you're good to go!
--  Checkout all scripts below.
+-  Checkout all scripts and features below.
 -  If you wish to add more linting rules, these can be added to the .eslintrc.js file.
 -  Feel free to open issues.
 
@@ -46,3 +46,9 @@ The .ts files will be compiled to JavaScript and placed in the dist directory. N
 -  `yarn dev` -- Runs the project in developer mode. This means any changes made will automatically re-run the typescript code.
 -  `yarn start` -- Runs the project using Node instead of nodemon.
 -  `yarn lint` -- Runs ESLint
+
+## Features
+- Continously watches .ts files for changes and converts them to JavaScript in a seperate file.
+- Uses nodemon to run the index.js file.
+- ESLint with recommended linting rules for TypeScript.
+- VSCode setting for running linting command when a file is saved.
