@@ -1,4 +1,4 @@
-# node-typescript-starter
+# Node-TypeScript Starter
 
 Super lightweight node-typescript starter with no added dependecies on top of the required TypeScript dependencies.
 
