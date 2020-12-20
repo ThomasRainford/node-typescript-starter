@@ -10,26 +10,26 @@ Super lightweight node-typescript starter with no added dependecies on top of th
 
 ## Getting Started
 
-**Step 1:** Clone the repo.
+### Step 1: Clone the repo.
 
 ```bash
 $ git clone https://github.com/ThomasRainford/node-typescript-starter.git
 $ cd node-typescript-starter
 ```
 
-**Step 2:** Install the dependencies using yarn.
+### Step 2: Install the dependencies using yarn.
 
 ```bash
 $ yarn
 ```
 
-**Step 3:** Watch the .ts files.
+### Step 3: Watch the .ts files.
 
 ```bash
 $ yarn watch
 ```
 
-**Step 4:** Launch in dev mode.
+### Step 4: Launch in dev mode.
 
 ```bash
 $ yarn dev
