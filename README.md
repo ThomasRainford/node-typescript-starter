@@ -13,26 +13,26 @@ Super lightweight node-typescript starter with no added dependecies on top of th
 ### Step 1: Clone the repo.
 
 ```bash
-$ git clone https://github.com/ThomasRainford/node-typescript-starter.git
-$ cd node-typescript-starter
+git clone https://github.com/ThomasRainford/node-typescript-starter.git
+cd node-typescript-starter
 ```
 
 ### Step 2: Install the dependencies using yarn.
 
 ```bash
-$ yarn
+yarn
 ```
 
 ### Step 3: Watch the .ts files.
 
 ```bash
-$ yarn watch
+yarn watch
 ```
 
 ### Step 4: Launch in dev mode.
 
 ```bash
-$ yarn dev
+yarn dev
 ```
 
 The .ts files will be compiled to JavaScript and placed in the dist directory. Nodemon will then run the project using the index.js file.
