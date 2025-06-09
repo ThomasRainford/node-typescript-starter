@@ -1,9 +1,7 @@
 // TypeScript Example.
 
-type MyString = {
-   value: string
-}
+import { MyString } from "./types";
 
-const aString: MyString = { value: 'Hello World! ' }
+const aString: MyString = { value: "Hello World!" };
 
-console.log(aString.value)
+console.log(aString.value);
